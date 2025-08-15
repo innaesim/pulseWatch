@@ -105,6 +105,6 @@ Pull requests are welcome! Please open an issue first to discuss any major chang
 
 ## 📬 Contact
 
-**Author:** Duncan Johanne
+**Author:** Duncan Johanne()
 **GitHub:** [duncanjohanne](https://github.com/duncanjohanne)
 **Email:** [duncankachasu@gmail.com](mailto:duncankachasu@gmail.com)
